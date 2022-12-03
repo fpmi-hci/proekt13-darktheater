@@ -20,6 +20,8 @@ A video streaming service with an emphasis on an online cinema that provides acc
 - Ensure the protection of work with payment systems
 - Provide protection against the introduction of malicious code
 
+### [Presentation](https://www.canva.com/design/DAFTssuMNPo/xOmdt317y1sFkZG7OkUiWQ/edit?utm_content=DAFTssuMNPo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ### Notion docs
 - [Исследование предметной области, пользователей и контекстов](https://factual-gander-26d.notion.site/485d5807def0436ea66ce5edc0838039)<br/>
 - [Информационная архитектура и оценка ранних концепций](https://factual-gander-26d.notion.site/cc7d97af131b437290fa85ca56a65f78)<br/>
